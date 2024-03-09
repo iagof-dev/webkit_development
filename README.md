@@ -1,7 +1,7 @@
-[Download](https://download-directory.github.io/) specific folder.
+To [Download](https://download-directory.github.io/) a specific folder.
 
 
-# UI Library
+## UI Library
 
 * [Aceternity UI](https://ui.aceternity.com/)
 
@@ -11,11 +11,11 @@
 
 * [SASS](https://sass-lang.com/)
 
-# Elements
+## Elements
 
 * [Framer Motion](https://www.framer.com/motion/)
 
-# Icons 
+## Icons 
 
 For icons file check it out the icons folder in the repository.
 
