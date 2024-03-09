@@ -11,11 +11,25 @@ To [Download](https://download-directory.github.io/) a specific folder.
 
 * [SASS](https://sass-lang.com/)
 
+## Components
+
+* [WindFrame](https://windframe.devwares.com/editor) (for tailwind)
+
+* [TailwindComponents](https://tailwindcomponents.com/)
+
+* [TW Elements](https://tw-elements.com/#)
+
+
+
 ## Elements
 
 * [Framer Motion](https://www.framer.com/motion/)
 
 * [SweetAlert2](https://sweetalert2.github.io/#download)
+
+* [Realtime Colors](https://www.realtimecolors.com/)
+
+* [Css Color filter Generator](https://angel-rs.github.io/css-color-filter-generator/)
 
 ## Icons 
 
