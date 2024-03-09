@@ -1,3 +1,6 @@
+[Download](https://download-directory.github.io/) specific folder.
+
+
 # UI Library
 
 [Aceternity UI](https://ui.aceternity.com/)
@@ -11,4 +14,8 @@
 # Elements
 
 [Framer Motion](https://www.framer.com/motion/)
+
+# Icons 
+
+[Font Awesome](https://fontawesome.com/)
 
