@@ -11,6 +11,8 @@ To [Download](https://download-directory.github.io/) a specific folder.
 
 * [SASS](https://sass-lang.com/)
 
+* [Daisy UI](https://daisyui.com/components/)
+
 ## Components
 
 * [WindFrame](https://windframe.devwares.com/editor) (for tailwind)
