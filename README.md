@@ -39,3 +39,5 @@ For icons file check it out the icons folder in the repository.
 
 * [Font Awesome](https://fontawesome.com/)
 
+* [iconsvg](https://iconsvg.xyz/)
+
