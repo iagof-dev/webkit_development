@@ -1,5 +1,6 @@
 To [Download](https://download-directory.github.io/) a specific folder.
 
+ALL 100% FREE RESOURCES
 
 ## UI Library
 
@@ -43,3 +44,8 @@ For icons file check it out the icons folder in the repository.
 
 * [Simpleicons](https://simpleicons.org/)
 
+* [Shape.so](https://shape.so/browse)
+
+* [RemixIcon](https://remixicon.com/)
+
+* [React Icons](https://react-icons.github.io/react-icons/icons/ci/)
