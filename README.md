@@ -15,6 +15,8 @@ Download only specific folder: [Download](https://download-directory.github.io/)
 
 * [Daisy UI](https://daisyui.com/components/)
 
+* [MaterialUI](https://mui.com/material-ui/)
+
 ## Components
 
 * [WindFrame](https://windframe.devwares.com/editor) (for tailwind)
