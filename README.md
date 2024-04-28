@@ -45,6 +45,8 @@ For icons file check it out the icons folder in the repository.
 
 * [Iconsvg](https://iconsvg.xyz/)
 
+* [FlowBite](https://flowbite.com/icons/)
+
 * [Simpleicons](https://simpleicons.org/)
 
 * [Shape.so](https://shape.so/browse)
