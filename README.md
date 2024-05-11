@@ -51,4 +51,6 @@ For icons file check it out the icons folder in the repository.
 
 * [RemixIcon](https://remixicon.com/)
 
+* [SvgRepo](https://www.svgrepo.com/)
+
 * [React Icons](https://react-icons.github.io/react-icons/icons/ci/)
