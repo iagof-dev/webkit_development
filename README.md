@@ -44,6 +44,8 @@ Download only specific folder: [Download](https://download-directory.github.io/)
 
 For icons file check it out the icons folder in the repository.
 
+* [Material Icons](https://fonts.google.com/icons)
+
 * [Font Awesome](https://fontawesome.com/)
 
 * [Iconsvg](https://iconsvg.xyz/)
