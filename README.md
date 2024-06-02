@@ -61,3 +61,11 @@ For icons file check it out the icons folder in the repository.
 * [React Icons](https://react-icons.github.io/react-icons/icons/ci/)
 
 ## Free components
+
+* [Tailwindcomponents](https://tailwindcomponents.com/)
+
+* [Flowbite](https://flowbite.com/)
+
+* [TW-Elements](https://tw-elements.com/)
+
+* [HyperUI](https://www.hyperui.dev/)
