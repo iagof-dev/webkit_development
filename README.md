@@ -69,3 +69,5 @@ For icons file check it out the icons folder in the repository.
 * [TW-Elements](https://tw-elements.com/)
 
 * [HyperUI](https://www.hyperui.dev/)
+
+* [MerakiUI](https://merakiui.com/components)
