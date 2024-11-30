@@ -3,6 +3,13 @@ ALL 100% FREE RESOURCES
 
 Download only specific folder: [Download](https://download-directory.github.io/)
 
+
+## Fonts
+
+* [Bunny](https://fonts.bunny.net/)
+
+* [Google Fonts](https://fonts.google.com/)
+
 ## UI Library
 
 * [Aceternity UI](https://ui.aceternity.com/)
