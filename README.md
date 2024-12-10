@@ -22,7 +22,9 @@ Download only specific folder: [Download](https://download-directory.github.io/)
 
 * [Daisy UI](https://daisyui.com/components/)
 
-* [MaterialUI](https://mui.com/material-ui/)
+* [Material UI](https://mui.com/material-ui/)
+
+* [Chakra UI](https://www.chakra-ui.com)
 
 ## Components
 
